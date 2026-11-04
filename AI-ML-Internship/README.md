@@ -97,7 +97,3 @@ git branch -M main
 git remote add origin <your-repo-url>
 git push -u origin main
 ```
-
-## Next: Task 2
-
-Preprocessing, feature engineering, train/test split, baseline models and evaluation on the cleaned datasets from this task.
